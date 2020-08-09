@@ -11805,11 +11805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\19.TEST\\ASPNETDEMO\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Source\\GIT\\NETCORE\\DEMO\\App1\\aspnetdemo\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "E:\\19.TEST\\ASPNETDEMO\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Source\\GIT\\NETCORE\\DEMO\\App1\\aspnetdemo\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\19.TEST\\ASPNETDEMO\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Source\\GIT\\NETCORE\\DEMO\\App1\\aspnetdemo\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -10,9 +10,15 @@ namespace WebApplication1.Controllers
 {
     public class HomeController : Controller
     {
+        SubjectModel subjectModel;
+        public HomeController()
+        {
+            subjectModel = new SubjectModel();
+        }
         public IActionResult Index()
         {
-            return View();
+            subjectModel.GetData();
+            return View(subjectModel);
         }
 
         public IActionResult About()
